@@ -1,0 +1,15 @@
+h2 {
+    color: #db2929;
+}
+
+.HW1-5 {
+    border: 2px solid #d82121;
+    height: 1.5em;
+    text-align: center;
+    width: 2.5em;
+    margin-bottom: 1px;
+}
+
+input {
+    width: 4em;
+}
